@@ -30,8 +30,8 @@ public class Lab {
      * @return a List<Integer> object.
      */
     public List<Integer> createList(){
-        List<Integer>list= new ArrayList<Integer>();
-        return list;
+        List<Integer>list1= new ArrayList<Integer>();
+        return list1;
     }
 
     /**
